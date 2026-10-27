@@ -1,0 +1,1895 @@
+[
+  {
+    "_id": "analysis-001",
+    "reviewId": "rev-001",
+    "productId": "prod-sony-wh1000xm5",
+    "sentiment": "Positive",
+    "confidence": 0.98,
+    "aspects": [
+      {
+        "name": "Noise Cancellation",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Audio Quality",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "Class-leading ANC",
+      "Punchy and clear soundstage",
+      "30-hour battery life"
+    ],
+    "cons": [
+      "Cannot fold into a compact ball like XM4"
+    ],
+    "keywords": [
+      "noise canceling",
+      "subway",
+      "soundstage",
+      "battery",
+      "comfort"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Natural descriptive usage context with realistic impressions.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-01T10:00:00Z",
+    "updatedAt": "2025-02-01T10:00:00Z"
+  },
+  {
+    "_id": "analysis-002",
+    "reviewId": "rev-002",
+    "productId": "prod-sony-wh1000xm5",
+    "sentiment": "Mixed",
+    "confidence": 0.91,
+    "aspects": [
+      {
+        "name": "Audio Quality",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Microphone",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Negative"
+      }
+    ],
+    "pros": [
+      "Crisp voice mic",
+      "High resolution audio codecs"
+    ],
+    "cons": [
+      "Looser headband clamp pressure"
+    ],
+    "keywords": [
+      "microphone",
+      "fit",
+      "clamp",
+      "clarity"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Balanced critique highlighting specific physical ergonomics.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-03T14:30:00Z",
+    "updatedAt": "2025-02-03T14:30:00Z"
+  },
+  {
+    "_id": "analysis-003",
+    "reviewId": "rev-003",
+    "productId": "prod-sony-wh1000xm5",
+    "sentiment": "Negative",
+    "confidence": 0.96,
+    "aspects": [
+      {
+        "name": "Build Quality",
+        "sentiment": "Negative"
+      },
+      {
+        "name": "Customer Service",
+        "sentiment": "Negative"
+      },
+      {
+        "name": "Durability",
+        "sentiment": "Negative"
+      }
+    ],
+    "pros": [],
+    "cons": [
+      "Fragile hinge plastic",
+      "Unhelpful warranty support"
+    ],
+    "keywords": [
+      "hinge",
+      "durability",
+      "swivel",
+      "support",
+      "warranty"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Specific failure scenario with customer service interaction details.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-06T18:00:00Z",
+    "updatedAt": "2025-02-06T18:00:00Z"
+  },
+  {
+    "_id": "analysis-004",
+    "reviewId": "rev-004",
+    "productId": "prod-sony-wh1000xm5",
+    "sentiment": "Positive",
+    "confidence": 0.94,
+    "aspects": [
+      {
+        "name": "Build Quality",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "Excited buyer"
+    ],
+    "cons": [],
+    "keywords": [
+      "best",
+      "amazing",
+      "perfect",
+      "shipping"
+    ],
+    "suspiciousStatus": "Suspicious",
+    "suspiciousReason": "Contains extreme generic praise, repetitive all-caps words, and lack of product-specific technical observations.",
+    "suspiciousScore": 88,
+    "createdAt": "2025-02-08T09:12:00Z",
+    "updatedAt": "2025-02-08T09:12:00Z"
+  },
+  {
+    "_id": "analysis-005",
+    "reviewId": "rev-005",
+    "productId": "prod-galaxy-s24-ultra",
+    "sentiment": "Positive",
+    "confidence": 0.97,
+    "aspects": [
+      {
+        "name": "Display",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Camera",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Performance",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "S Pen",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "Anti-reflective glass",
+      "200MP telephoto zoom",
+      "Sustained peak gaming performance"
+    ],
+    "cons": [
+      "Heavy weight at 232 grams"
+    ],
+    "keywords": [
+      "anti-reflective",
+      "snapdragon",
+      "s pen",
+      "display",
+      "camera",
+      "gaming"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Highly technical and specific hardware feedback.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-05T11:20:00Z",
+    "updatedAt": "2025-02-05T11:20:00Z"
+  },
+  {
+    "_id": "analysis-006",
+    "reviewId": "rev-006",
+    "productId": "prod-galaxy-s24-ultra",
+    "sentiment": "Mixed",
+    "confidence": 0.93,
+    "aspects": [
+      {
+        "name": "AI Features",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Camera",
+        "sentiment": "Mixed"
+      },
+      {
+        "name": "Value for Money",
+        "sentiment": "Negative"
+      }
+    ],
+    "pros": [
+      "Circle to Search integration",
+      "Premium titanium chassis"
+    ],
+    "cons": [
+      "Indoor low-light shutter delay",
+      "High premium MSRP"
+    ],
+    "keywords": [
+      "circle to search",
+      "shutter lag",
+      "camera",
+      "low light",
+      "price"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "In-depth real-world photography assessment.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-09T16:40:00Z",
+    "updatedAt": "2025-02-09T16:40:00Z"
+  },
+  {
+    "_id": "analysis-007",
+    "reviewId": "rev-007",
+    "productId": "prod-galaxy-s24-ultra",
+    "sentiment": "Negative",
+    "confidence": 0.92,
+    "aspects": [
+      {
+        "name": "Battery Life",
+        "sentiment": "Negative"
+      },
+      {
+        "name": "Software",
+        "sentiment": "Negative"
+      },
+      {
+        "name": "Thermals",
+        "sentiment": "Negative"
+      }
+    ],
+    "pros": [],
+    "cons": [
+      "Overnight standby battery drain",
+      "Warm thermal hotspots"
+    ],
+    "keywords": [
+      "battery drain",
+      "software update",
+      "standby",
+      "thermals"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent technical bug report on OS build behavior.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-14T20:10:00Z",
+    "updatedAt": "2025-02-14T20:10:00Z"
+  },
+  {
+    "_id": "analysis-008",
+    "reviewId": "rev-008",
+    "productId": "prod-macbook-pro-16",
+    "sentiment": "Positive",
+    "confidence": 0.99,
+    "aspects": [
+      {
+        "name": "Performance",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Display",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Acoustics & Fans",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "Unmatched raw export speeds",
+      "Silent fan acoustics",
+      "True HDR Liquid Retina XDR"
+    ],
+    "cons": [
+      "Steep price tag"
+    ],
+    "keywords": [
+      "blender",
+      "after effects",
+      "m3 max",
+      "display",
+      "rendering",
+      "fans"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Professional creative workflow details with quantitative benchmarks.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-04T13:15:00Z",
+    "updatedAt": "2025-02-04T13:15:00Z"
+  },
+  {
+    "_id": "analysis-009",
+    "reviewId": "rev-009",
+    "productId": "prod-macbook-pro-16",
+    "sentiment": "Positive",
+    "confidence": 0.9,
+    "aspects": [
+      {
+        "name": "Performance",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Portability",
+        "sentiment": "Negative"
+      }
+    ],
+    "pros": [
+      "18+ hours real world battery",
+      "Best-in-class trackpad and keyboard"
+    ],
+    "cons": [
+      "Chassis weight and bulky 140W power brick"
+    ],
+    "keywords": [
+      "travel",
+      "battery",
+      "weight",
+      "charger",
+      "coding"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Practical travel usability feedback.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-11T17:00:00Z",
+    "updatedAt": "2025-02-11T17:00:00Z"
+  },
+  {
+    "_id": "analysis-010",
+    "reviewId": "rev-010",
+    "productId": "prod-garmin-fenix-7x",
+    "sentiment": "Positive",
+    "confidence": 0.98,
+    "aspects": [
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "GPS & Navigation",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Build Quality",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Flashlight",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "Weeks of battery life with solar charging",
+      "Multi-band GNSS accuracy",
+      "Built-in LED strobe"
+    ],
+    "cons": [
+      "MIP screen is not as vibrant as AMOLED"
+    ],
+    "keywords": [
+      "ultramarathon",
+      "battery",
+      "gps",
+      "flashlight",
+      "solar"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Detailed athletic endurance test report.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-02T08:00:00Z",
+    "updatedAt": "2025-02-02T08:00:00Z"
+  },
+  {
+    "_id": "analysis-011",
+    "reviewId": "rev-011",
+    "productId": "prod-breville-barista",
+    "sentiment": "Positive",
+    "confidence": 0.97,
+    "aspects": [
+      {
+        "name": "Ease of Use",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Coffee Quality",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Milk Frother",
+        "sentiment": "Positive"
+      },
+      {
+        "name": "Heating Speed",
+        "sentiment": "Positive"
+      }
+    ],
+    "pros": [
+      "3-second ThermoJet warm-up",
+      "Auto milk temperature & texture sensors",
+      "Touchscreen custom presets"
+    ],
+    "cons": [
+      "Drip tray fills quickly"
+    ],
+    "keywords": [
+      "espresso",
+      "microfoam",
+      "thermojet",
+      "touchscreen",
+      "latte art"
+    ],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Clear specialty coffee brewing review.",
+    "suspiciousScore": 12,
+    "createdAt": "2025-02-07T09:45:00Z",
+    "updatedAt": "2025-02-07T09:45:00Z"
+  },
+  {
+    "_id": "2519ef4d-b135-48cc-91a2-bbbe32004697",
+    "reviewId": "751738b2-6743-45c0-876c-7adac64e4682",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "sound",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Sound Quality in review context."
+      },
+      {
+        "aspect": "call",
+        "name": "Call Clarity",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Call Clarity in review context."
+      },
+      {
+        "aspect": "noise",
+        "name": "Noise Cancellation",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Noise Cancellation in review context."
+      },
+      {
+        "aspect": "charging",
+        "name": "Charging Speed",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Charging Speed in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "sound quality",
+      "call clarity",
+      "noise cancellation",
+      "charging speed"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "i personally liked the product very much. the sound quality is good but call can depend on the environment of the speaker. noise cancellatio...",
+    "createdAt": "2026-09-25T14:45:26.169Z",
+    "updatedAt": "2026-09-25T14:45:26.169Z"
+  },
+  {
+    "_id": "15034e05-34e1-4059-ba4f-db8ded1df086",
+    "reviewId": "45a9c55e-e46b-4523-ab24-eb5f1e7e3ad9",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "price",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Value for Money in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "battery life",
+      "value for money"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "title: good airbuds at a great pricereview: the airbuds are really good, and i got them at a discount for ₹1000, which makes them an excelle...",
+    "createdAt": "2026-09-25T14:45:26.172Z",
+    "updatedAt": "2026-09-25T14:45:26.172Z"
+  },
+  {
+    "_id": "eebdfdfe-c5a4-4c65-89e5-b2ced263e958",
+    "reviewId": "4cf68273-9d7f-484f-a613-5fc4342ce421",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "sound",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Sound Quality in review context."
+      },
+      {
+        "aspect": "earbud",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      },
+      {
+        "aspect": "comfort",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "battery life",
+      "sound quality",
+      "comfort & fit",
+      "comfort & fit"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "i really like the boat airdopes joy v2. they are great for listening to music every day. the boat airdopes joy v2 has a design that i like. ...",
+    "createdAt": "2026-09-25T14:45:26.432Z",
+    "updatedAt": "2026-09-25T14:45:26.432Z"
+  },
+  {
+    "_id": "c049013d-8258-40ab-b0d0-590a1f905046",
+    "reviewId": "6af37085-8241-4294-af5c-ea8f97086e42",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Negative",
+    "sentimentScore": -0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "earbud",
+        "name": "Comfort & Fit",
+        "sentiment": "Negative",
+        "score": -0.6,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      },
+      {
+        "aspect": "call",
+        "name": "Call Clarity",
+        "sentiment": "Negative",
+        "score": -0.6,
+        "evidence": "Customer referenced Call Clarity in review context."
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keywords": [
+      "comfort & fit",
+      "call clarity"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "left earbud stopped working in august 2026, eight months after i bought them in january 2026. the product is still under the 1-year warranty...",
+    "createdAt": "2026-09-25T14:45:26.723Z",
+    "updatedAt": "2026-09-25T14:45:26.723Z"
+  },
+  {
+    "_id": "c660f272-35b8-4bf5-9d29-b8cef29f84dd",
+    "reviewId": "8b717abb-cdb0-4aeb-b2e2-5b8c51ca312e",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "sound",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Sound Quality in review context."
+      },
+      {
+        "aspect": "call",
+        "name": "Call Clarity",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Call Clarity in review context."
+      },
+      {
+        "aspect": "charging",
+        "name": "Charging Speed",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Charging Speed in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "battery life",
+      "sound quality",
+      "call clarity",
+      "charging speed"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "its the best earpods with superb sound quality, long battery backup , with nice call quality, fast charging with compact size easy to use th...",
+    "createdAt": "2026-09-25T14:45:28.276Z",
+    "updatedAt": "2026-09-25T14:45:28.276Z"
+  },
+  {
+    "_id": "073e41de-a18f-4263-9d5f-55f3af2d2a16",
+    "reviewId": "27fa5ec5-91a5-4e37-b31b-b4b760eb5aa1",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.95,
+    "aspects": [
+      {
+        "aspect": "Sound Quality",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "Sound quality... very good"
+      },
+      {
+        "aspect": "Battery Life",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "battery... very good"
+      }
+    ],
+    "pros": [
+      "Very good sound quality",
+      "Very good battery life"
+    ],
+    "cons": [],
+    "keywords": [
+      "Sound quality",
+      "Battery",
+      "Earbuds",
+      "Performance"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The feedback is concise, natural, and aligns well with a positive 4-star rating.",
+    "suspiciousScore": 5,
+    "summary": "The customer is pleased with the earbuds, highlighting both the sound quality and battery life as very good.",
+    "createdAt": "2026-09-25T14:45:29.942Z",
+    "updatedAt": "2026-09-25T14:45:29.942Z"
+  },
+  {
+    "_id": "304ad0b3-5606-4836-b2a1-4d6c3abe7e43",
+    "reviewId": "cc19d4ce-b540-4eee-b2e6-7be1ab12d82e",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "sound",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Sound Quality in review context."
+      },
+      {
+        "aspect": "earbud",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      },
+      {
+        "aspect": "comfort",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "battery life",
+      "sound quality",
+      "comfort & fit",
+      "comfort & fit"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "good earbuds for daily use. the sound quality is clear, touch controls are easy to use, and the earbuds are comfortable for regular listenin...",
+    "createdAt": "2026-09-25T14:45:30.036Z",
+    "updatedAt": "2026-09-25T14:45:30.036Z"
+  },
+  {
+    "_id": "399ea1a4-6e6f-48b2-82f8-cb2dfd4fadc3",
+    "reviewId": "828508cf-0c9b-47b6-b15d-9cede9b190ac",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "sentiment": "Positive",
+    "sentimentScore": 0.94,
+    "confidence": 0.98,
+    "aspects": [
+      {
+        "aspect": "Sound Quality",
+        "name": "Sound and Bass",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "The sound quality is great, the bass is impressive"
+      },
+      {
+        "aspect": "Comfort",
+        "name": "Fit and Wearability",
+        "sentiment": "Positive",
+        "score": 0.9,
+        "evidence": "they’re comfortable to wear for a long time"
+      },
+      {
+        "aspect": "Battery Life",
+        "name": "Battery Backup",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "The battery backup is also good"
+      },
+      {
+        "aspect": "Connectivity",
+        "name": "Bluetooth Connection",
+        "sentiment": "Positive",
+        "score": 0.9,
+        "evidence": "the connection is quick and stable"
+      },
+      {
+        "aspect": "Value for Money",
+        "name": "Pricing",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "Overall, a great pair of earbuds for the price"
+      }
+    ],
+    "pros": [
+      "Great sound quality and impressive bass",
+      "Comfortable for long listening sessions",
+      "Quick and stable connectivity",
+      "Reliable battery backup",
+      "High value for money"
+    ],
+    "cons": [],
+    "keywords": [
+      "Sound Quality",
+      "Bass",
+      "Comfort",
+      "Battery Backup",
+      "Bluetooth Connection",
+      "Value"
+    ],
+    "suspiciousIndicators": [
+      "Potentially mismatched model name (mentions 'Airdopes 300' instead of 'Airdopes Joy v2')",
+      "Generic promotional tone with all positive standard attributes"
+    ],
+    "suspiciousStatus": "Suspicious",
+    "suspiciousReason": "The review explicitly names 'Airdopes 300' rather than the target product 'Airdopes Joy v2', suggesting potential cross-listing duplication or copied promotional text.",
+    "suspiciousScore": 65,
+    "summary": "The customer expresses high satisfaction with the sound quality, bass, comfort, and battery life, though they refer to a different earbud model.",
+    "createdAt": "2026-09-25T14:45:30.583Z",
+    "updatedAt": "2026-09-25T14:45:30.583Z"
+  },
+  {
+    "_id": "e04c6c12-b00b-4ebd-a974-590e766c2826",
+    "reviewId": "f2d2be87-a5f8-41cf-a150-54f07fcf4490",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "good"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [
+      "Ultra-short generic positive praise."
+    ],
+    "suspiciousStatus": "Uncertain",
+    "suspiciousReason": "Ultra-short generic positive praise.",
+    "suspiciousScore": 45,
+    "summary": "good",
+    "createdAt": "2026-09-28T06:38:58.373Z",
+    "updatedAt": "2026-09-28T06:38:58.373Z"
+  },
+  {
+    "_id": "48d29557-a456-4208-bf66-d2a1e73a21c4",
+    "reviewId": "0d300edc-35c6-4842-9c54-131ec0fc41f9",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "worth it...love the phone."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "worth it...love the phone.",
+    "createdAt": "2026-09-28T06:38:58.400Z",
+    "updatedAt": "2026-09-28T06:38:58.400Z"
+  },
+  {
+    "_id": "b677907b-aac5-4f6e-992a-f56d415bdd1f",
+    "reviewId": "94d9b2d9-e40e-453d-8c83-24a31d4d73c4",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "mobile is good, but no charger along with phone...."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "mobile is good, but no charger along with phone....",
+    "createdAt": "2026-09-28T06:38:59.028Z",
+    "updatedAt": "2026-09-28T06:38:59.028Z"
+  },
+  {
+    "_id": "2fc779ee-23b4-4f85-a13b-8807f5d80f74",
+    "reviewId": "85813dde-72e0-4ba3-a0b4-2df607640494",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "call",
+        "name": "Call Clarity",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Call Clarity in review context."
+      },
+      {
+        "aspect": "price",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Value for Money in review context."
+      },
+      {
+        "aspect": "build",
+        "name": "Build Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Build Quality in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "battery life",
+      "call clarity",
+      "value for money",
+      "build quality"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "this review is after 8 months of usage, i think this phone is better than 5g phone in terms of internet speed, i use vi & bsnl sim , bsnl ne...",
+    "createdAt": "2026-09-28T06:38:59.636Z",
+    "updatedAt": "2026-09-28T06:38:59.636Z"
+  },
+  {
+    "_id": "e86d9ad8-c7fd-4169-9d77-f8bc6c4e6496",
+    "reviewId": "c76a11b5-345f-4d36-828b-34ba6b48c724",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "too good"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [
+      "Ultra-short generic positive praise."
+    ],
+    "suspiciousStatus": "Uncertain",
+    "suspiciousReason": "Ultra-short generic positive praise.",
+    "suspiciousScore": 45,
+    "summary": "too good",
+    "createdAt": "2026-09-28T06:39:03.487Z",
+    "updatedAt": "2026-09-28T06:39:03.487Z"
+  },
+  {
+    "_id": "f05b3969-2610-4490-bd5c-df34f49c06c5",
+    "reviewId": "7311be60-1355-47b1-b6ba-4edfd52eb305",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Positive",
+    "sentimentScore": 0.92,
+    "confidence": 0.98,
+    "aspects": [
+      {
+        "aspect": "Value for Money",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "Recommended mobile in affordable price 😍"
+      },
+      {
+        "aspect": "Display",
+        "name": "Screen & Touch Display",
+        "sentiment": "Positive",
+        "score": 0.92,
+        "evidence": "Screen size is big and has a very smooth touch display."
+      },
+      {
+        "aspect": "Sound Quality",
+        "name": "Audio",
+        "sentiment": "Positive",
+        "score": 0.88,
+        "evidence": "Good quality of sound"
+      },
+      {
+        "aspect": "Camera Quality",
+        "name": "Camera",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "📷 camera pictures"
+      },
+      {
+        "aspect": "Battery Life",
+        "name": "Battery & Charging",
+        "sentiment": "Positive",
+        "score": 0.9,
+        "evidence": "we get the charging for 1.5 - 2 days"
+      },
+      {
+        "aspect": "Thermal Performance",
+        "name": "Heating",
+        "sentiment": "Positive",
+        "score": 0.9,
+        "evidence": "Didn’t observed any heating issues."
+      }
+    ],
+    "pros": [
+      "Affordable price",
+      "Large screen with smooth touch response",
+      "Good sound quality",
+      "Good camera photo quality",
+      "1.5 to 2 days battery backup with minimal usage",
+      "No heating issues"
+    ],
+    "cons": [],
+    "keywords": [
+      "affordable price",
+      "smooth touch display",
+      "battery backup",
+      "sound quality",
+      "camera pictures"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The review provides realistic, context-rich details based on a week of actual usage, aligning naturally with the 5-star rating.",
+    "suspiciousScore": 5,
+    "summary": "The user strongly recommends this phone as an affordable device featuring a smooth large display, dependable battery life, decent camera and sound quality, and no heating issues.",
+    "createdAt": "2026-09-28T06:39:03.671Z",
+    "updatedAt": "2026-09-28T06:39:03.672Z"
+  },
+  {
+    "_id": "dba7a451-bb22-4329-b75f-a1e4fffa38a4",
+    "reviewId": "df42a532-9214-4c39-a3c1-0203c2febadd",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Mixed",
+    "sentimentScore": 0.4,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "battery",
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Battery Life in review context."
+      },
+      {
+        "aspect": "sound",
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Sound Quality in review context."
+      },
+      {
+        "aspect": "price",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Value for Money in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keywords": [
+      "battery life",
+      "sound quality",
+      "value for money"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "bought f07 at 10500/-. good 4g smartphone at low price. 4g is enough for me as good 5g phone prices are high now.it has very good 6nm helio ...",
+    "createdAt": "2026-09-28T06:39:04.714Z",
+    "updatedAt": "2026-09-28T06:39:04.714Z"
+  },
+  {
+    "_id": "36e87b47-2cfe-46e6-be17-1c9ea125431d",
+    "reviewId": "2c19b78a-6118-4ec2-95a5-1a202b020db6",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "sentiment": "Mixed",
+    "sentimentScore": -0.3,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Mixed",
+        "score": -0.3,
+        "evidence": "i received this phone today, and right out of the box, the rear camera only show"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "i received this phone today, and right out of the box, the rear camera only shows a black screen. i ran the official samsung members diagnos...",
+    "createdAt": "2026-09-28T06:39:05.254Z",
+    "updatedAt": "2026-09-28T06:39:05.254Z"
+  },
+  {
+    "_id": "70a410dd-80a4-4d47-a2bd-eb294abdb146",
+    "reviewId": "6d28b853-cf9a-46a6-ad18-a2de1268d717",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "price",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Value for Money in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "value for money"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "good quality body cover. perfect fit for activa 6g. material is lightweight and waterproof. it protects the scooter from dust and rain. wort...",
+    "createdAt": "2026-09-28T06:44:25.098Z",
+    "updatedAt": "2026-09-28T06:44:25.098Z"
+  },
+  {
+    "_id": "f5191362-ea47-4cfc-8dda-1e1e4597f9c9",
+    "reviewId": "ef369f05-3351-42fd-948e-5f1beefc27a7",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "very nice product and properly fit on bike cover all area"
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "very nice product and properly fit on bike cover all area",
+    "createdAt": "2026-09-28T06:44:28.515Z",
+    "updatedAt": "2026-09-28T06:44:28.515Z"
+  },
+  {
+    "_id": "a9f8bb55-bfab-41d3-aa46-f9c2949345a3",
+    "reviewId": "34dcffce-5e80-400c-97f8-f3ef064be628",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Positive",
+    "sentimentScore": 0.65,
+    "confidence": 0.92,
+    "aspects": [
+      {
+        "aspect": "Value for Money",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.9,
+        "evidence": "Best in its price range"
+      },
+      {
+        "aspect": "Dust Resistance",
+        "name": "Dust Protection",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "Effectively stops dust"
+      },
+      {
+        "aspect": "Water Resistance",
+        "name": "Rainproofing",
+        "sentiment": "Positive",
+        "score": 0.85,
+        "evidence": "is rainproof"
+      },
+      {
+        "aspect": "Sun Protection",
+        "name": "UV Protection",
+        "sentiment": "Mixed",
+        "score": 0.1,
+        "evidence": "provides UV protection. I’m not sure about the UV protection since it looks thin"
+      },
+      {
+        "aspect": "Build Quality",
+        "name": "Material Thickness",
+        "sentiment": "Negative",
+        "score": -0.3,
+        "evidence": "looks thin"
+      }
+    ],
+    "pros": [
+      "Excellent value for the price range",
+      "Effectively keeps dust away",
+      "Effective rainproofing"
+    ],
+    "cons": [
+      "Material appears thin",
+      "Uncertainty about UV protection capability"
+    ],
+    "keywords": [
+      "price range",
+      "dust proof",
+      "rainproof",
+      "UV protection",
+      "material thickness"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The review reflects a balanced, authentic user experience, expressing reasonable skepticism about specific claims based on physical inspection.",
+    "suspiciousScore": 5,
+    "summary": "The customer finds the cover to be great value for dust and rain protection, though they express minor doubt regarding UV resistance due to the thin fabric.",
+    "createdAt": "2026-09-28T06:44:28.955Z",
+    "updatedAt": "2026-09-28T06:44:28.955Z"
+  },
+  {
+    "_id": "bbd02316-42a7-4392-a4b4-b1a86b226b38",
+    "reviewId": "2d71b0a0-cb96-4963-825e-ac33bcfda73e",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Mixed",
+    "sentimentScore": -0.35,
+    "confidence": 0.94,
+    "aspects": [
+      {
+        "aspect": "Product Quality",
+        "name": "Product Quality",
+        "sentiment": "Positive",
+        "score": 0.7,
+        "evidence": "The product quality is good overall"
+      },
+      {
+        "aspect": "Accessories",
+        "name": "Storage Bag",
+        "sentiment": "Negative",
+        "score": -0.7,
+        "evidence": "unfortunately, it doesn’t come with a storage bag"
+      },
+      {
+        "aspect": "Value for Money",
+        "name": "Value for Money",
+        "sentiment": "Negative",
+        "score": -0.8,
+        "evidence": "Considering the price, I don’t feel it offers good value for money"
+      }
+    ],
+    "pros": [
+      "Good overall product quality"
+    ],
+    "cons": [
+      "Does not include a storage bag",
+      "Poor value for money relative to price"
+    ],
+    "keywords": [
+      "product quality",
+      "storage bag",
+      "value for money",
+      "price",
+      "bike cover"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The feedback provides a realistic, balanced, and context-specific critique without promotional language or bot-like phrasing.",
+    "suspiciousScore": 5,
+    "summary": "The customer appreciates the cover's build quality but considers it poor value for money due to the lack of an included storage bag.",
+    "createdAt": "2026-09-28T06:44:29.302Z",
+    "updatedAt": "2026-09-28T06:44:29.302Z"
+  },
+  {
+    "_id": "8aaef4d6-039c-45b5-94ad-84500e3e720a",
+    "reviewId": "85e0a683-7dfb-45d1-9492-428a1e3655b8",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Positive",
+    "sentimentScore": 0.95,
+    "confidence": 0.98,
+    "aspects": [
+      {
+        "aspect": "Water Resistance",
+        "name": "Water Resistance",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "really water resistant"
+      },
+      {
+        "aspect": "Value for Money",
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "Great value for money"
+      },
+      {
+        "aspect": "Overall Satisfaction",
+        "name": "Overall Satisfaction",
+        "sentiment": "Positive",
+        "score": 0.95,
+        "evidence": "Love this product"
+      }
+    ],
+    "pros": [
+      "Effective water resistance",
+      "Great value for money",
+      "High overall product satisfaction"
+    ],
+    "cons": [],
+    "keywords": [
+      "water resistant",
+      "value for money",
+      "bike cover",
+      "protection",
+      "MT 15"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The review text directly aligns with the 5-star rating and mentions key functional attributes without exhibiting spam patterns or promotional markers.",
+    "suspiciousScore": 10,
+    "summary": "The customer is highly satisfied with the bike cover, praising its effective water resistance and excellent value for money.",
+    "createdAt": "2026-09-28T06:44:29.394Z",
+    "updatedAt": "2026-09-28T06:44:29.394Z"
+  },
+  {
+    "_id": "ea60f10e-02a5-4827-a37f-94ab969b3b60",
+    "reviewId": "dd8706d8-6753-4b82-9b36-efb39bac7a52",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Mixed",
+    "sentimentScore": -0.3,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "call",
+        "name": "Call Clarity",
+        "sentiment": "Negative",
+        "score": -0.6,
+        "evidence": "Customer referenced Call Clarity in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keywords": [
+      "call clarity"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "i ordered this bike body cover specifically for my bullet 350, as the product description clearly states that it is compatible with bullet 3...",
+    "createdAt": "2026-09-28T06:44:29.480Z",
+    "updatedAt": "2026-09-28T06:44:29.480Z"
+  },
+  {
+    "_id": "6d77e229-8709-4076-85f5-53a037367f53",
+    "reviewId": "111419d5-2488-4397-b5cd-85e4db6a1fcb",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Mixed",
+    "sentimentScore": -0.1,
+    "confidence": 0.95,
+    "aspects": [
+      {
+        "aspect": "Water Resistance",
+        "name": "Waterproofing",
+        "sentiment": "Negative",
+        "score": -0.9,
+        "evidence": "It is not waterproof, water gets penetrated inside"
+      },
+      {
+        "aspect": "Weather Protection",
+        "name": "UV & Dust Protection",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "It will protect your bike from UV rays & dust"
+      },
+      {
+        "aspect": "Build Quality",
+        "name": "Stitching Quality",
+        "sentiment": "Neutral",
+        "score": 0,
+        "evidence": "Quality of the stitching is okish according to the price point"
+      },
+      {
+        "aspect": "Value for Money",
+        "name": "Price-to-Quality Ratio",
+        "sentiment": "Neutral",
+        "score": 0.1,
+        "evidence": "okish according to the price point"
+      }
+    ],
+    "pros": [
+      "Protects bike against UV rays",
+      "Effective at dust protection",
+      "Acceptable stitching quality for the price"
+    ],
+    "cons": [
+      "Not waterproof; water penetrates through the cover"
+    ],
+    "keywords": [
+      "waterproof",
+      "UV protection",
+      "dust proof",
+      "stitching quality",
+      "price point"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "The review demonstrates balanced, specific feedback aligning well with the 3-star rating, showing no typical patterns of manipulation or promotional bias.",
+    "suspiciousScore": 5,
+    "summary": "The bike cover adequately protects against dust and UV rays with acceptable stitching for the cost, but fails significantly at waterproofing as water easily penetrates.",
+    "createdAt": "2026-09-28T06:44:38.016Z",
+    "updatedAt": "2026-09-28T06:44:38.016Z"
+  },
+  {
+    "_id": "a5604522-9e8a-48fa-9667-ae2231add254",
+    "reviewId": "1c8165ac-dbce-4bca-98b3-4572e5aaa03e",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "worth it product happy to bought this product go for it 😍"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "worth it product happy to bought this product go for it 😍",
+    "createdAt": "2026-09-28T06:44:42.140Z",
+    "updatedAt": "2026-09-28T06:44:42.140Z"
+  },
+  {
+    "_id": "7eec54e9-0cfa-432e-ac5a-3fd2a5e35774",
+    "reviewId": "1008bd13-12a5-4287-93ec-40491a6a22b4",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "very good condition and original product very nice look\ni am happy 😁😁"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "very good condition and original product very nice look\ni am happy 😁😁",
+    "createdAt": "2026-09-28T07:24:07.508Z",
+    "updatedAt": "2026-09-28T07:24:07.508Z"
+  },
+  {
+    "_id": "5039c163-cffc-42b8-9f92-07630ad660ad",
+    "reviewId": "9fce5d9b-5939-4ffa-a973-fead3c7a716b",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "wow condition ❤️\ncool looking"
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "wow condition ❤️\ncool looking",
+    "createdAt": "2026-09-28T07:24:07.509Z",
+    "updatedAt": "2026-09-28T07:24:07.509Z"
+  },
+  {
+    "_id": "7faf1242-c5ce-4ea7-9b9a-6d79f7c8e2f6",
+    "reviewId": "d5a50b0f-aae5-453e-999c-665c9e9101e3",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "okkk okk fiting is ook"
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "okkk okk fiting is ook",
+    "createdAt": "2026-09-28T07:24:07.509Z",
+    "updatedAt": "2026-09-28T07:24:07.509Z"
+  },
+  {
+    "_id": "9b0e75a5-8ad2-4df3-86c4-baf3206f421f",
+    "reviewId": "05f9977c-97f1-4000-91fe-ae0991ed190f",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "comfort & fit"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "product is awesome 🥰\nvery comfortable for 🏃🏋️⛹️🚴🧗🏇🕺. thank you flipkart. many many thanks for delivery bro.\nz.e.h.e.n😍",
+    "createdAt": "2026-09-28T07:24:07.510Z",
+    "updatedAt": "2026-09-28T07:24:07.510Z"
+  },
+  {
+    "_id": "60f82481-0ce3-4866-8545-84b8abf9c8d1",
+    "reviewId": "83bbfa99-158b-4e33-a7e6-51b68e3a6525",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "supar sheos"
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [
+      "Ultra-short generic positive praise."
+    ],
+    "suspiciousStatus": "Uncertain",
+    "suspiciousReason": "Ultra-short generic positive praise.",
+    "suspiciousScore": 45,
+    "summary": "supar sheos",
+    "createdAt": "2026-09-28T07:24:07.510Z",
+    "updatedAt": "2026-09-28T07:24:07.510Z"
+  },
+  {
+    "_id": "15fcf36a-2f7f-4447-b62b-ef4179638d16",
+    "reviewId": "ac902592-3bcf-4779-bd4d-06fc5ef63118",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "amazing"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [
+      "Ultra-short generic positive praise."
+    ],
+    "suspiciousStatus": "Uncertain",
+    "suspiciousReason": "Ultra-short generic positive praise.",
+    "suspiciousScore": 45,
+    "summary": "amazing",
+    "createdAt": "2026-09-28T07:24:07.510Z",
+    "updatedAt": "2026-09-28T07:24:07.510Z"
+  },
+  {
+    "_id": "e22aa54d-9e70-4d79-9880-b83792da2154",
+    "reviewId": "8295c96d-721a-4553-a6c8-ed0c50cf27fc",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "comfort & fit"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "nice looking, value for money, comfortable shoe, thanks flipkart go for buy",
+    "createdAt": "2026-09-28T07:24:07.511Z",
+    "updatedAt": "2026-09-28T07:24:07.511Z"
+  },
+  {
+    "_id": "e69d58ab-dfc2-47d7-88f4-752104a74c0f",
+    "reviewId": "01da0b64-1def-49b9-bdf1-57aff6eda1a6",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "nice shoes i recommend to order one size more than ur usual size."
+      }
+    ],
+    "pros": [
+      "Standard performance"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "nice shoes i recommend to order one size more than ur usual size.",
+    "createdAt": "2026-09-28T07:24:07.511Z",
+    "updatedAt": "2026-09-28T07:24:07.511Z"
+  },
+  {
+    "_id": "d3330852-5934-4c55-ad7d-a35fb1fea56e",
+    "reviewId": "9c16c603-31f2-4b60-9171-5c3328de75c9",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "general",
+        "name": "Overall Usability",
+        "sentiment": "Positive",
+        "score": 0.8,
+        "evidence": "good"
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "overall usability"
+    ],
+    "suspiciousIndicators": [],
+    "suspiciousStatus": "Genuine",
+    "suspiciousReason": "Consistent verified consumer feedback.",
+    "suspiciousScore": 10,
+    "summary": "good",
+    "createdAt": "2026-09-28T07:24:07.511Z",
+    "updatedAt": "2026-09-28T07:24:07.511Z"
+  },
+  {
+    "_id": "a805b5fc-0796-4bd0-baf5-539556854731",
+    "reviewId": "ce0558fd-f043-4348-8f04-39e82d6ede07",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "sentiment": "Positive",
+    "sentimentScore": 0.8,
+    "confidence": 0.88,
+    "aspects": [
+      {
+        "aspect": "comfort",
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "score": 0.75,
+        "evidence": "Customer referenced Comfort & Fit in review context."
+      }
+    ],
+    "pros": [
+      "Effective functionality",
+      "Satisfies user expectations"
+    ],
+    "cons": [],
+    "keywords": [
+      "comfort & fit"
+    ],
+    "suspiciousIndicators": [
+      "Ultra-short generic positive praise."
+    ],
+    "suspiciousStatus": "Uncertain",
+    "suspiciousReason": "Ultra-short generic positive praise.",
+    "suspiciousScore": 45,
+    "summary": "very comfortable",
+    "createdAt": "2026-09-28T07:24:07.512Z",
+    "updatedAt": "2026-09-28T07:24:07.512Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "AI Product Review Analyzer",
+  "description": "Full-stack AI-powered review analytics platform that transforms unstructured customer feedback into actionable insights with Gemini NLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,507 @@
+[
+  {
+    "_id": "prod-sony-wh1000xm5",
+    "productId": "prod-sony-wh1000xm5",
+    "overallSummary": "Customers overwhelmingly praise the Sony WH-1000XM5 for its exceptional active noise cancellation and balanced soundstage. Minor concerns center around the non-folding headband fit and swivel durability.",
+    "positiveHighlights": [
+      "Industry-leading active noise cancellation for travel and busy office environments.",
+      "Refined audio profile with punchy bass and expansive mid-range clarity.",
+      "Outstanding 30-hour battery performance and fast charging."
+    ],
+    "negativeHighlights": [
+      "Loose headband tension reported during workouts.",
+      "Non-foldable carry case is bulkier than previous generation XM4.",
+      "Single report of swivel mechanism hairline fracture."
+    ],
+    "keyObservations": [
+      "Best suited for frequent commuters and remote professionals prioritizing noise blocking and microphone clarity.",
+      "Strongest sentiment scores in Audio Quality and Active Noise Cancellation."
+    ],
+    "aspectBreakdown": [
+      {
+        "name": "Noise Cancellation",
+        "sentiment": "Positive",
+        "mentions": 4
+      },
+      {
+        "name": "Audio Quality",
+        "sentiment": "Positive",
+        "mentions": 4
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "mentions": 3
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Mixed",
+        "mentions": 2
+      },
+      {
+        "name": "Build Quality",
+        "sentiment": "Mixed",
+        "mentions": 2
+      }
+    ],
+    "sentimentBreakdown": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 1
+    },
+    "topPros": [
+      {
+        "text": "Unmatched active noise cancellation",
+        "count": 3
+      },
+      {
+        "text": "30-hour battery longevity",
+        "count": 2
+      },
+      {
+        "text": "Spacious soundstage & clear mics",
+        "count": 2
+      }
+    ],
+    "topCons": [
+      {
+        "text": "Loose fit when tilting head",
+        "count": 1
+      },
+      {
+        "text": "Non-collapsible travel footprint",
+        "count": 1
+      }
+    ],
+    "topKeywords": [
+      {
+        "keyword": "noise canceling",
+        "count": 4
+      },
+      {
+        "keyword": "battery",
+        "count": 3
+      },
+      {
+        "keyword": "soundstage",
+        "count": 3
+      },
+      {
+        "keyword": "comfort",
+        "count": 2
+      },
+      {
+        "keyword": "microphone",
+        "count": 2
+      }
+    ],
+    "suspiciousCount": 1,
+    "totalAnalyzed": 4,
+    "averageRating": 3.8,
+    "createdAt": "2026-09-25T14:08:22.239Z",
+    "updatedAt": "2026-09-25T14:08:22.239Z"
+  },
+  {
+    "_id": "920ab197-d576-424b-814c-b3e23589f76e",
+    "productId": "920ab197-d576-424b-814c-b3e23589f76e",
+    "overallSummary": "Based on 8 reviews analyzed for boAt 2026 Launch Airdopes Joy v2, 35H Battery, Pocketable Design, ASAP™ Charge, 13mm Drivers, Easy Touch Controls, ENx™ Tech, IWP™ & App Support TWS Bluetooth Earbuds with mic (Eclipse Black), customer reception is positive. Verified buyers note positive impressions for Effective functionality, with an average verified rating of 4.4/5.",
+    "overallSentiment": "Positive",
+    "positiveHighlights": [
+      "Effective functionality",
+      "Satisfies user expectations",
+      "Standard performance",
+      "Very good sound quality"
+    ],
+    "negativeHighlights": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keyObservations": [
+      "Analysis based on a verified sample of 8 reviews imported from marketplace.",
+      "Product exhibits a positive review distribution with strong buyer confidence."
+    ],
+    "aspectBreakdown": [
+      {
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "mentions": 6
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "mentions": 5
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "mentions": 4
+      },
+      {
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "mentions": 3
+      }
+    ],
+    "sentimentBreakdown": {
+      "positive": 7,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 0
+    },
+    "topPros": [
+      {
+        "text": "Effective functionality",
+        "count": 5
+      },
+      {
+        "text": "Satisfies user expectations",
+        "count": 5
+      },
+      {
+        "text": "Standard performance",
+        "count": 1
+      },
+      {
+        "text": "Very good sound quality",
+        "count": 1
+      }
+    ],
+    "topCons": [
+      {
+        "text": "Room for improvement under prolonged usage",
+        "count": 1
+      }
+    ],
+    "topKeywords": [
+      {
+        "keyword": "sound quality",
+        "count": 4
+      },
+      {
+        "keyword": "call clarity",
+        "count": 3
+      },
+      {
+        "keyword": "noise cancellation",
+        "count": 1
+      },
+      {
+        "keyword": "charging speed",
+        "count": 2
+      },
+      {
+        "keyword": "battery life",
+        "count": 4
+      }
+    ],
+    "suspiciousCount": 1,
+    "totalAnalyzed": 8,
+    "averageRating": 4.4,
+    "reviewCoverage": {
+      "reviewsAnalyzed": 8,
+      "note": "8 verified customer reviews analyzed from marketplace import."
+    },
+    "purchaseInsight": "Solid purchase option for buyers seeking dependable everyday functionality in this price bracket.",
+    "reviewSignal": "Generally Positive",
+    "createdAt": "2026-09-26T19:42:16.352Z",
+    "updatedAt": "2026-09-26T19:42:16.352Z"
+  },
+  {
+    "_id": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "productId": "cc3c413c-ddd0-4f90-884a-45cc0f1e09bb",
+    "overallSummary": "Based on 8 reviews analyzed for Samsung Galaxy F07 (Green, 64 GB) (4 GB RAM), customer reception is positive. Verified buyers note positive impressions for Effective functionality, with an average verified rating of 4/5.",
+    "positiveHighlights": [
+      "Effective functionality",
+      "Satisfies user expectations",
+      "Affordable price",
+      "Large screen with smooth touch response"
+    ],
+    "negativeHighlights": [
+      "Room for improvement under prolonged usage"
+    ],
+    "keyObservations": [
+      "Analysis based on a verified sample of 8 reviews imported from marketplace.",
+      "Product exhibits a positive review distribution with strong buyer confidence."
+    ],
+    "aspectBreakdown": [
+      {
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "mentions": 6
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "mentions": 5
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "mentions": 4
+      },
+      {
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "mentions": 3
+      }
+    ],
+    "sentimentBreakdown": {
+      "positive": 6,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 2
+    },
+    "topPros": [
+      {
+        "text": "Effective functionality",
+        "count": 7
+      },
+      {
+        "text": "Satisfies user expectations",
+        "count": 7
+      },
+      {
+        "text": "Affordable price",
+        "count": 1
+      },
+      {
+        "text": "Large screen with smooth touch response",
+        "count": 1
+      }
+    ],
+    "topCons": [
+      {
+        "text": "Room for improvement under prolonged usage",
+        "count": 2
+      }
+    ],
+    "topKeywords": [
+      {
+        "keyword": "overall usability",
+        "count": 5
+      },
+      {
+        "keyword": "battery life",
+        "count": 2
+      },
+      {
+        "keyword": "call clarity",
+        "count": 1
+      },
+      {
+        "keyword": "value for money",
+        "count": 2
+      },
+      {
+        "keyword": "build quality",
+        "count": 1
+      }
+    ],
+    "suspiciousCount": 0,
+    "totalAnalyzed": 8,
+    "averageRating": 4,
+    "createdAt": "2026-09-28T06:40:18.067Z",
+    "updatedAt": "2026-09-28T06:40:18.067Z"
+  },
+  {
+    "_id": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "productId": "582b5493-6255-4c96-ba4c-723c8741785b",
+    "overallSummary": "Based on 8 reviews analyzed for Bike Body Cover for MT 15 Full Body Cover with Waterproof, Dust Proof, UV Rays Protective, Tripple Stitching & Lightweight Two Wheeler Covers - Black with Waterproof Red Piping, customer reception is positive. Verified buyers note positive impressions for Effective functionality, with an average verified rating of 3.8/5.",
+    "overallSentiment": "Positive",
+    "positiveHighlights": [
+      "Effective functionality",
+      "Satisfies user expectations",
+      "Standard performance",
+      "Excellent value for the price range"
+    ],
+    "negativeHighlights": [
+      "Material appears thin",
+      "Uncertainty about UV protection capability",
+      "Does not include a storage bag"
+    ],
+    "keyObservations": [
+      "Analysis based on a verified sample of 8 reviews imported from marketplace.",
+      "Product exhibits a positive review distribution with strong buyer confidence."
+    ],
+    "aspectBreakdown": [
+      {
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "mentions": 6
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "mentions": 5
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "mentions": 4
+      },
+      {
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "mentions": 3
+      }
+    ],
+    "sentimentBreakdown": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 3
+    },
+    "topPros": [
+      {
+        "text": "Effective functionality",
+        "count": 3
+      },
+      {
+        "text": "Satisfies user expectations",
+        "count": 3
+      },
+      {
+        "text": "Standard performance",
+        "count": 1
+      },
+      {
+        "text": "Excellent value for the price range",
+        "count": 1
+      }
+    ],
+    "topCons": [
+      {
+        "text": "Material appears thin",
+        "count": 1
+      },
+      {
+        "text": "Uncertainty about UV protection capability",
+        "count": 1
+      },
+      {
+        "text": "Does not include a storage bag",
+        "count": 1
+      }
+    ],
+    "topKeywords": [
+      {
+        "keyword": "value for money",
+        "count": 3
+      },
+      {
+        "keyword": "overall usability",
+        "count": 2
+      },
+      {
+        "keyword": "price range",
+        "count": 1
+      },
+      {
+        "keyword": "dust proof",
+        "count": 2
+      },
+      {
+        "keyword": "rainproof",
+        "count": 1
+      }
+    ],
+    "suspiciousCount": 0,
+    "totalAnalyzed": 8,
+    "averageRating": 3.8,
+    "reviewCoverage": {
+      "reviewsAnalyzed": 8,
+      "note": "8 verified customer reviews analyzed from marketplace import."
+    },
+    "purchaseInsight": "Solid purchase option for buyers seeking dependable everyday functionality in this price bracket.",
+    "reviewSignal": "Generally Positive",
+    "createdAt": "2026-09-28T06:44:42.402Z",
+    "updatedAt": "2026-09-28T06:44:42.402Z"
+  },
+  {
+    "_id": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "productId": "3b82b98f-14eb-4047-94da-a22ca080fe50",
+    "overallSummary": "Based on 10 reviews analyzed for Super!, customer reception is positive. Verified buyers note positive impressions for Effective functionality, with an average verified rating of 4.6/5.",
+    "overallSentiment": "Positive",
+    "positiveHighlights": [
+      "Effective functionality",
+      "Satisfies user expectations",
+      "Standard performance"
+    ],
+    "negativeHighlights": [
+      "Minimal critical feedback among the 10 reviews analyzed."
+    ],
+    "keyObservations": [
+      "Analysis based on a verified sample of 10 reviews imported from marketplace.",
+      "Product exhibits a positive review distribution with strong buyer confidence."
+    ],
+    "aspectBreakdown": [
+      {
+        "name": "Sound Quality",
+        "sentiment": "Positive",
+        "mentions": 8
+      },
+      {
+        "name": "Battery Life",
+        "sentiment": "Positive",
+        "mentions": 6
+      },
+      {
+        "name": "Comfort & Fit",
+        "sentiment": "Positive",
+        "mentions": 5
+      },
+      {
+        "name": "Value for Money",
+        "sentiment": "Positive",
+        "mentions": 4
+      }
+    ],
+    "sentimentBreakdown": {
+      "positive": 10,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 0
+    },
+    "topPros": [
+      {
+        "text": "Effective functionality",
+        "count": 6
+      },
+      {
+        "text": "Satisfies user expectations",
+        "count": 6
+      },
+      {
+        "text": "Standard performance",
+        "count": 4
+      }
+    ],
+    "topCons": [
+      {
+        "text": "Occasional quality variation in budget tier",
+        "count": 1
+      }
+    ],
+    "topKeywords": [
+      {
+        "keyword": "overall usability",
+        "count": 7
+      },
+      {
+        "keyword": "comfort & fit",
+        "count": 3
+      }
+    ],
+    "suspiciousCount": 0,
+    "totalAnalyzed": 10,
+    "averageRating": 4.6,
+    "reviewCoverage": {
+      "reviewsAnalyzed": 10,
+      "note": "10 verified customer reviews analyzed from marketplace import."
+    },
+    "purchaseInsight": "Solid purchase option for buyers seeking dependable everyday functionality in this price bracket.",
+    "reviewSignal": "Generally Positive",
+    "createdAt": "2026-09-28T07:24:15.162Z",
+    "updatedAt": "2026-09-28T07:24:15.163Z"
+  }
+]
